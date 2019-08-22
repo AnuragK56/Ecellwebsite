@@ -369,7 +369,7 @@
                      <div class="col_one_third">
                         <div class="widget clearfix">
                            <img src="images/logo.png" alt="" class="footer-logo">
-                           <p>We believe in <strong>Simple</strong>, <strong>Creative</strong> &amp; <strong>Flexible</strong> Design Standards.</p>
+                           <p>Ideate <strong>Inspire</strong> <strong> Innovate</strong></p>    
                            <div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
                               <address>
                                  <strong>Address:</strong><br>
