@@ -25,8 +25,8 @@
 							<div class="swiper-slide dark" style="background-image: url('images/slider/swiper/1.jpg');">
 								<div class="container clearfix">
 									<div class="slider-caption slider-caption-center">
-										<h2 data-animate="fadeInUp">Welcome to Canvas</h2>
-										<p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Create just what you need for your Perfect Website. Choose from a wide range of Elements &amp; simply put them on our Canvas.</p>
+										<h2 data-animate="fadeInUp">Welcome to Directorate of E-Cell MUJ</h2>
+										<p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Ideate… Inspire… Innovate</p>
 									</div>
 								</div>
 							</div>
@@ -269,7 +269,7 @@ and most successful entrepreneurs in a vast diversity of industries.
 					<section id="section-team" class="page-section topmargin-lg">
 						<div class="heading-block center">
 							<h2>Our Team</h2>
-							<span>People who have contributed enormously to our Company.</span>
+							<span>People who work rigorously to make E-cell happening.</span>
 						</div>
 						<div class="container clearfix">
 							<div class="row">
